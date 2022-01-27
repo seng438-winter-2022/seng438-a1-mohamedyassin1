@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       | 32  |
 |-----------------|---|
 | Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+|                 |  Benson Li      |
+|                 |  Henrique Andras |
+|                 |  Kevin Araujo  |
+|                 |   Mohamed Yassin  |
 
 **Table of Contents**
 
