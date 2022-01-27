@@ -57,6 +57,9 @@ We will attempt to interact with buttons and inputs in between loading/processin
 
 Exploratory function testing enables testers to find a reasonable quantity of errors fast, as you explore the program and target specific functionalities following your intuition of what might break. This method comes up short in picking out the majority of errors since it follows no specific guideline but excels in giving testers a good idea of the errors on the application within a short amount of time. For manual functional testing, we test for more normal use of the system, rather than attempting to break the system in exploratory testing. This is useful for ensuring that regular functions of the system work without skipping over any important functionalities, this method, however, does not work as well for finding bugs in extreme use cases and does take a more significant amount of time compared to exploratory functional testing. 
 
+For example: We inputted a very huge number for the card PIN, and this crashed the ATM. This is a bug that we would unlikely have found with the scripted testing, but exploratory testing made us find bugs like these. An example like this shows the difference between the types of bugs you will find in exploratory and manual scripted testing.
+
+For manual scripting, we also got very specific bugs, such as the card numbers being different in the log and receipt, bugs such as that are quite difficult to notice with exploratory testing, as they require strong analytical skills. However, with manual scripted testing, you can find more complex bugs by following a detailed script and paying attention to the expected output.
 
 # Notes and discussion of the peer reviews of defect reports
 
